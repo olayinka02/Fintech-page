@@ -35,6 +35,8 @@ div.choosefintech{
   background-position: center;
   background-repeat:no-repeat;
   background-size: cover;
+  padding-top:3rem;
+  padding-bottom:3rem;
   width:100%;
 }
 div.carouselinfo{
